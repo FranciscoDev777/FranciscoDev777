@@ -4,6 +4,8 @@
 
 ![FranciscoDev777 GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoDev777&show_icons=true&bg_color=00000000)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoDev777&size_weight=0.5&count_weight=0.5)
+
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br>
